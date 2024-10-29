@@ -162,7 +162,7 @@ footer p{
     
 }
 /*RESPONSIVO*/
-@media (min-width: 1440px){
+@media (min-width: 1200px){
     body{
         background-color: var(--color-base-white);
         width: 100%;
